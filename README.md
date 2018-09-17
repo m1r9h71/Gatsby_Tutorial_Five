@@ -9,5 +9,5 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 ## Running in development
 `gatsby develop`
 
-### Based on the Fourth Tutorial
-Find it here: `https://www.gatsbyjs.org/tutorial/part-four/`
+### Based on the Fifth Tutorial
+Find it here: `https://www.gatsbyjs.org/tutorial/part-five/`
