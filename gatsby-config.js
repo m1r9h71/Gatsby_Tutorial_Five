@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: `Gatsby Tutorial 4: Querying for data`,
+        title: `Gatsby Tutorial 5: Rendering queried data`,
     },
     plugins: [
         {
